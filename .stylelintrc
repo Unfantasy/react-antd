@@ -1,0 +1,9 @@
+{
+  "extends": "stylelint-config-standard",
+  "plugins": ["stylelint-scss"],
+  "rules": {
+    "no-eol-whitespace": null,
+    "no-invalid-double-slash-comments": null,
+    "no-empty-source": null
+  }
+}
