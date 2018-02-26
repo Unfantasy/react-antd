@@ -5,7 +5,7 @@
 
 1. clone
 ```
-$ git clone git@github.com:Unfantasy/react-s.git
+$ git clone git@github.com:Unfantasy/react-antd.git
 ```
 2. set this project to yourself
 ```
