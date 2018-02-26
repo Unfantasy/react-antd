@@ -1,5 +1,5 @@
 # react-s
-我的react标准工程 (react + antd-mobile)
+我的react标准工程 (react + antd)
 
 ## How to use
 
