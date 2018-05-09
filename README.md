@@ -1,5 +1,5 @@
 # react-s
-我的react标准工程 (react + antd)
+我的react标准工程 (react + antd + redux)
 
 ## How to use
 
